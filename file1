@@ -1,5 +1,9 @@
 Hello This is Sample file 
 This is Test
+<<<<<<< HEAD
 This is to check fork
 Hello This is Main
 This is Feature 
+=======
+This is Second
+>>>>>>> feature1

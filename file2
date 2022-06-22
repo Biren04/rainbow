@@ -1,2 +1,6 @@
 This is second file test
+<<<<<<< HEAD
 
+=======
+Extra
+>>>>>>> feature1
